@@ -56,7 +56,7 @@ Console.WriteLine(" ");
 
 
 //5. Soru
-Console.WriteLine("1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdırınız.");
+Console.WriteLine("5) 1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdırınız.");
 int tekToplam = 0; //tek sayıların toplamını 0 aldık.
 int ciftToplam = 0; //çift sayıların toplamını 0 aldık.
 for (int i = 1; i <=120; i++) //1 ile 120 arasında olacağı için 1'e eşit 120'ye küçük eşit aldık.
